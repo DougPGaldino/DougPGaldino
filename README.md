@@ -6,7 +6,7 @@
 ![Doug's GitHub stats](https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br)
 
 <a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img height=200 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
 </a>
 
 <div style="display: inline_block"><br>
