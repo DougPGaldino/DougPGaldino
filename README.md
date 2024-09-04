@@ -1,6 +1,6 @@
 ## Olá! Me chamo Douglas!
 
-- 🔭 Atualmente estou trabalhando como Jovem Aprendiz na área de TI.
+- 🔭 No momento estou trabalhando como Jovem Aprendiz na área de TI.
 - 🌱 Atualmente estou estudando desenvolvimento Web, linguagem C#, Python e SQL para Análise de Dados e desenvolvimento de sistemas.
 
 <a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
