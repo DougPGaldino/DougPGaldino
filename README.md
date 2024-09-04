@@ -4,10 +4,10 @@
 - 🌱 Atualmente estou estudando desenvolvimento Web, linguagem C#, Python e SQL para Análise de Dados e desenvolvimento de sistemas.
 
 <a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
+  <img height= 175 align="center" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
 </a>
 <a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
+  <img height= 175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
 </a>
 
 <div style="display: inline_block"><br>
