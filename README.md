@@ -3,12 +3,9 @@
 - 🔭 Atualmente estou trabalhando como Jovem Aprendiz na área de TI.
 - 🌱 Atualmente estou estudando desenvolvimento Web, linguagem C#, Python e SQL para Análise de Dados e desenvolvimento de sistemas.
 
-<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
-</a>
-<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
