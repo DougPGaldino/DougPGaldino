@@ -1,7 +1,14 @@
-## Olá! Me chamo Douglas!
+## Olá! Me chamo Douglas! 
 
 - 🔭 Atualmente estou trabalhando como Jovem Aprendiz na área de TI.
 - 🌱 Estou estudando desenvolvimento Web, linguagem C#, Python e SQL para Análise de Dados e desenvolvimento de sistemas.
+
+## Hello! My name is Douglas!
+- 🔭 I’m currently working as a Youth Apprentice in the IT field.
+
+- 🌱 I’m studying Web Development, C#, Python, and SQL for Data Analysis and System Development.
+
+
 
 <a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
   <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
