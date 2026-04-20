@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DougPGaldino&color=006bed)
 
+## Olá, meu nome é Douglas!
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
