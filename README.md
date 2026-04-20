@@ -39,8 +39,11 @@
 
 <br/>
 
-<a href="https://github.com/DougPGaldino" title="Perfil de Douglas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&theme=dracula&show_icons=true" />
+<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
+  <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
+</a>
+<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
+  <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
 </a>
 
 ## Onde me encontrar
