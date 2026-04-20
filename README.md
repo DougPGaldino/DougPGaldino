@@ -1,35 +1,50 @@
-## Olá! Me chamo Douglas! 
+![](https://komarev.com/ghpvc/?username=DougPGaldino&color=006bed)
 
-- 🔭 Atualmente estou trabalhando como Jovem Aprendiz na área de TI.
-- 🌱 Estou estudando desenvolvimento Web, linguagem C#, Python e SQL para Análise de Dados e desenvolvimento de sistemas.
+## Sobre mim
 
-## Hello! My name is Douglas!
-- 🔭 I’m currently working as a Youth Apprentice in the IT field.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando como Auxiliar de Suporte Técnico na <a href="https://www.assist.org.br/">ASSIST - RJ</a>.
+- 🌱 Aprendendo mais sobre Python, Inteligência Artificial e Automação.
 
-- 🌱 I’m studying Web Development, C#, Python, and SQL for Data Analysis and System Development.
+## Minhas Skills
 
+**Aplicações e dados**
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoft-sql-server)
 
-<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&show_icons=true&theme=merko&locale=pt-br" />
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/DougPGaldino" title="Perfil de Douglas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougPGaldino&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/DougPGaldino/DougPGaldino/edit/main/README.md">
-  <img height= 185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DougPGaldino&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=merko" />
-</a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Doug-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="Doug-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+## Onde me encontrar
 
-<br>
-
-<div>
-<a href="https://www.linkedin.com/in/douglas-galdino-3b511b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-            
-          
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-galdino-3b511b214/)](https://www.linkedin.com/in/douglas-galdino-3b511b214/)
+[![Gmail Badge](https://img.shields.io/badge/-douglaspgaldino1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaspgaldino1@gmail.com)](mailto:douglaspgaldino1@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/DougPGaldino?label=follow&style=social)](DougPGaldino)
